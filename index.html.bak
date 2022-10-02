@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="ru" class="webkit chrome win js">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<title>Визоплекс - официальный сайт! Цена, инструкция, отзывы и заказ средства!</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name=”description” content=”Сайт производителя препарата Визоплекс - комплекс для восстановления зрения. Узнайте информацию о составе, свойствах, эффективности и отзывах покупателей, развод или нет!”>
+
+<link type=”image/x-icon” href=”https://dr-obzor.github.io/visopleks/favicon.ico” rel=”shortcut icon”>
+
+	<link type="text/css" rel="stylesheet" href="css/owl.carousel.min.css">
+	<link type="text/css" rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/popup.css">
+
+	<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+
+</head>
+
+<body style="" cz-shortcut-listen="true">
+
+
+
+
+	<header class="header_section">
+		<div class="wrapper">
+			<h1>Восстановление зрения без операции</h1>
+			<p class="subtitle">Визоплекс - сайт производителя. Теперь и в <span class="country_name2">России</span>!</p>
+			<div class="info">
+				<ul>
+					<li>Четкое зрение за 2 недели</li>
+					<li>Профилактика катаракты</li>
+					<li>Укрепление сетчатки</li>
+				</ul>
+				<div class="timer_block clearfix">
+					<p><span>Только сегодня</span></p>
+					<span class="old-price-summ-num"><span class="price_land_s4 pl_product_old_price">
+							<font class="endStockDate nowdate" daysint="">
+								<script>
+									var d = new Date();
+
+									var month = new Array("января", "февраля", "марта", "апреля", "мая", "июня",
+										"июля", "августа", "сентября", "октября", "ноября", "декабря");
+									d.setDate(d.getDate());
+									document.write((d.getDate()) + " " + month[d.getMonth()] +
+										" " + d.getFullYear());
+								</script> г.
+							</font>
+						</span></span>
+				</div>
+				<div class="price_block clearfix">
+					<div class="price_item new">
+						<div class="text">По акции:</div>
+						<div class="value"><span class="new_price">168</span> <span class="currency_price">руб.</span>*
+						</div>
+					</div>
+				</div>
+				<a href="#" class="button">ПОЛУЧИТЬ ЗА <span class="new_price">168</span> <span
+						class="currency_price">руб.</span></a>
+				<p class="products_count">Осталось <span class="p_limit_left_text">60</span> упаковок по акции</p>
+			</div>
+			<div class="triggers_block">
+				<p>100% доказанная эффективность</p>
+				<div class="icon"></div>
+			</div>
+			<div class="sale myplashka">Внимание! <span class="discount"></span> Акция!</div>
+		</div>
+	</header>
+
+
+	<section class="diseases_section">
+		<div class="wrapper">
+			<div class="info">
+				<h2 class="align_left">К чему может привести снижение зрения?</h2>
+				<div class="diseases_list">
+					<div class="disease_item">
+						<div class="image_block">
+							<img src="img/diseases__disease1_image.jpeg" alt="Визоплекс" loading="lazy">
+						</div>
+						<div class="text_block">
+							<h3>Катаракта</h3>
+							<p>Помутнение глазного хрусталика. Вызывает различные степени расстройства зрения вплоть до
+								его <b>полной
+									утраты</b></p>
+						</div>
+					</div>
+					<div class="disease_item">
+						<div class="image_block">
+							<img src="img/diseases__disease2_image.jpeg" alt="Визоплекс" loading="lazy">
+						</div>
+						<div class="text_block">
+							<h3>Глаукома</h3>
+							<p>Нарушение внутриглазного давления и последующее снижение остроты зрения. В 80% процентах
+								случаев
+								приводит <b>к слепоте</b></p>
+						</div>
+					</div>
+					<div class="disease_item">
+						<div class="image_block">
+							<img src="img/diseases__disease3_image.jpeg" alt="Визоплекс" loading="lazy">
+						</div>
+						<div class="text_block">
+							<h3>Слепота</h3>
+							<p>Полная и практически необратимая потеря зрения. Шанс успешной операции и возвращения
+								зрения равен
+								<b>0,0031%</b></p>
+						</div>
+					</div>
+					<div class="disease_item">
+						<div class="image_block">
+							<img src="img/diseases__disease4_image.jpeg" alt="Визоплекс" loading="lazy">
+						</div>
+						<div class="text_block">
+							<h3>Отслоение сетчатки</h3>
+							<p>Отделение сетчатой оболочки глаза от сосудистой, возникновение “темной пелены”. Требует
+								срочной
+								операции, иначе приводит <b>к слепоте</b></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<img class="image" src="img/diseases__image.jpeg" alt="Визоплекс" loading="lazy">
+		</div>
+	</section>
+
+
+	<section class="about_section">
+		<div class="wrapper">
+			<img class="image" src="img/about__image.jpeg" alt="Визоплекс" loading="lazy">
+			<img class="product_image" src="img/product-new.png" alt="Визоплекс" loading="lazy">
+			<div class="info">
+				<h2 class="align_left">Верните себе четкое зрение вместе с Визоплексом</h2>
+				<p>Визоплекс - инновационный препарат израильской фармацевтической компании, разработанный по поручению
+					правительства <b>к году защиты зрения.</b> В результате сотрудничества 300-т ведущих клиник и
+					многомиллионных
+					инвестиций было создано средство, способное <b>в кратчайшие сроки восстановить зрение</b> и
+					обеспечить
+					профилактику опасных глазных заболеваний. Визоплекс уже признан <b>товаром <span class="startdate"
+							format="year" daysago="170">
+							<script>
+								document.write((new Date()).getFullYear());
+							</script>
+						</span>-го года в Израиле,</b> а с недавнего времени права на его реализацию получили 18 стран
+					Европы, <b>в
+						том числе и <span class="country_name">Россия</span>.</b></p>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="benefits_section">
+		<div class="wrapper">
+			<h2 class="align_left">Почему Визоплекс гарантирует результат</h2>
+			<div class="benefits_list">
+				<div class="benefit_item">
+					<div class="benefit_wrapper">
+						<div class="icon_block">
+							<img src="data:image/png;base64,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"
+								alt="Визоплекс">
+						</div>
+						<div class="text_block">
+							<h3>Восстановление сетчатки</h3>
+							<p>Визоплекс содержит достаточную концентрацию витаминов и каротиноидов для эффективного
+								восстановления
+								сетчатки глаза</p>
+						</div>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<div class="benefit_wrapper">
+						<div class="icon_block">
+							<img src="data:image/png;base64,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"
+								alt="Визоплекс">
+						</div>
+						<div class="text_block">
+							<h3>Укрепление глазных мышц</h3>
+							<p>Визоплекс берет ответственность за укрепление мышц на себя, обеспечивая микроволокнам
+								достаточную
+								работу</p>
+						</div>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<div class="benefit_wrapper">
+						<div class="icon_block">
+							<img src="data:image/png;base64,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"
+								alt="Визоплекс">
+						</div>
+						<div class="text_block">
+							<h3>Защита от перенапряжения</h3>
+							<p>Визоплекс защищает глаза от перенапряжения в любых ситуациях и гарантирует безопасность
+								клеткам
+								сетчатки</p>
+						</div>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<div class="benefit_wrapper">
+						<div class="icon_block">
+							<img src="data:image/png;base64,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"
+								alt="Визоплекс">
+						</div>
+						<div class="text_block">
+							<h3>Нормализация кровообращения</h3>
+							<p>Визоплекс нормализует работу кровеносных сосудов и защищает их от опасных перепадов
+								давления</p>
+						</div>
+					</div>
+				</div>
+				<div class="benefit_item">
+					<div class="benefit_wrapper">
+						<div class="icon_block">
+							<img src="data:image/png;base64,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"
+								alt="Визоплекс">
+						</div>
+						<div class="text_block">
+							<h3>Естественное увлажнение глаз</h3>
+							<p>Визоплекс восстанавливает процесс естественного увлажнения глаз, защищая слизистую
+								оболочку от сухости
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="problems_section">
+		<div class="wrapper">
+			<h2 class="align_center">Вам срочно необходим Визоплекс, если</h2>
+			<div class="problems_list">
+				<div class="problem_item">
+					<img src="img/problems__problem1_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Проводите более 2-х часов за экраном компьютера без специальных очков</p>
+				</div>
+				<div class="problem_item">
+					<img src="img/problems__problem2_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Часто чувствуете усталость глаз, реже - боли в области глазниц</p>
+				</div>
+				<div class="problem_item">
+					<img src="img/problems__problem3_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Видите предметы с близкого расстояния расплывчато</p>
+				</div>
+				<div class="problem_item">
+					<img src="img/problems__problem4_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Не можете рассмотреть с 30м название улицы, номер автомобиля</p>
+				</div>
+				<div class="problem_item">
+					<img src="img/problems__problem5_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Вынуждены щуриться, чтобы разглядеть лицо приближающегося человека</p>
+				</div>
+				<div class="problem_item">
+					<img src="img/problems__problem6_image.jpeg" alt="Визоплекс" loading="lazy">
+					<p>Не хотите носить очки, а линзы сильно бьют по карману</p>
+				</div>
+			</div>
+			<a href="#" class="button">ПОЛУЧИТЬ ЗА <span class="new_price">168</span> <span
+					class="currency_price">руб.</span></a>
+		</div>
+	</section>
+
+
+	<section class="results_section">
+		<div class="wrapper clearfix">
+			<h2 class="align_center">Результаты клинических испытаний</h2>
+			<p class="description">Тестирование Визоплекса проводилось в <span class="startdate" format="year"
+					daysago="170">
+					<script>
+						document.write((new Date()).getFullYear());
+					</script>
+				</span>-м году в 20-ти крупнейших клиниках Европы. Участие в испытаниях по добровольному согласию
+				приняли 31928
+				человек, испытывающих различные проблемы со зрением (в том числе 8922 ребенка)</p>
+			<img src="img/results__diagram.jpeg" alt="Визоплекс" loading="lazy">
+			<ul>
+				<li><span>95%</span> повысили уровень зрения до оптимальных показателей</li>
+				<li><span>91%</span> устранили симптомы гиперметропии</li>
+				<li><span>83%</span> излечились от катаракты в начальной и незрелой стадии</li>
+				<li><span>92%</span> избежали операционного вмешательства из-за глаукомы</li>
+				<li><span>87%</span> полностью избавились от ячменя и конъюнктивита</li>
+				<li><span>98%</span> удалось нормализовать естественное увлажнение глаз</li>
+			</ul>
+		</div>
+	</section>
+
+
+	<section class="opinion_section">
+		<div class="wrapper">
+			<h2>Комментарий специалиста</h2>
+			<div class="text_block">
+				<p>Израильская медицина в очередной раз доказала, что является одной из лучших в мире: выпустив на рынок
+					Визоплекс, они избавили тысячи людей от самых разных проблем с важнейшим органом жизнедеятельности
+					человека. К
+					сожалению, вернуть полностью утраченное зрение этот препарат не в силах, однако остановить процесс
+					снижения и
+					защитить от дальнейших осложнений - вполне. Все, что требуется - четко следовать инструкции. Моим
+					пациентам
+					хватило всего одного курса, чтобы полностью вернуть себе четкое зрение. Поверьте, для многих это -
+					огромное
+					счастье.</p>
+			</div>
+			<div class="author_info">
+				<div class="name">Людмила Иванчикова</div>
+				<div class="text">врач-офтальмолог, стаж работы 38 лет</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="components_section">
+		<div class="wrapper">
+			<h2 class="align_center">100% натуральный состав Визоплекса</h2>
+			<img class="product_image" src="img/product-new.png" alt="Визоплекс" loading="lazy">
+			<div class="components_list">
+				<div class="component_item">
+					<img src="img/components__component1_image.jpeg" alt="Визоплекс" loading="lazy">
+					<h3>Лютеин</h3>
+					<p>В нем содержатся единственные каротиноиды, откладывающиеся в сетчатке глаза. Защищает хрусталик
+						от
+						окислительного процесса и помогает вернуть остроту зрения</p>
+				</div>
+				<div class="component_item">
+					<img src="img/components__component2_image.jpg" alt="Визоплекс" loading="lazy">
+					<h3>Антоцианы черники</h3>
+					<p>Самые главные природные защитники зрения. Антоцианы черники нормализуют давление глазного дна и
+						капиллярное
+						кровообращение, а также укрепляют глазные мышцы</p>
+				</div>
+				<div class="component_item">
+					<img src="img/components__component3_image.jpg" alt="Визоплекс" loading="lazy">
+					<h3>Антоцианы смородины</h3>
+					<p>Устраняют сухость глаз, способствуют естественному увлажнению слизистой оболочки. Также
+						высокоэффективны в
+						борьбе с ячменем и конъюнктивитом</p>
+				</div>
+				<div class="component_item">
+					<img src="img/components__component4_image.jpg" alt="Визоплекс" loading="lazy">
+					<h3>Листья гинкго билоба</h3>
+					<p>Укрепляет сетчатку и замедляет процесс ее естественного старения. Оказывает профилактику
+						множественных
+						опасных заболеваний органов зрения</p>
+				</div>
+				<div class="component_item">
+					<img src="img/components__component5_image.jpg" alt="Визоплекс" loading="lazy">
+					<h3>Трава очанки</h3>
+					<p>Предотвращает отслоение сетчатки глаза, защищает ее от перенапряжения и естественных повреждений.
+						Уменьшает
+						риск возрастной дегенерации зрения</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+
+	<section class="reviews_section">
+		<div class="wrapper">
+			<h2 class="align_center">Уже более 17000 человек попробовали Визоплекс</h2>
+			<div class="reviews_list owl-carousel">
+				<div class="review_item">
+					<img src="img/reviews__review1_photo.jpeg" alt="Визоплекс" loading="lazy">
+					<div class="text_block">
+						<div class="author_info">Олеся Смирнова, 28 лет</div>
+						<p>Недавно начала замечать, что мое зрение постепенно ухудшается. Если раньше я без труда видела
+							таблички с
+							названиями улиц из окна автомобиля, то теперь приходится как следует прищуриться, чтобы хоть
+							что-то
+							разглядеть. Заказала Визоплекс, так как времени на окулиста у меня особо нет. Принимаю уже
+							вторую неделю,
+							и зрение реально возвращается! Больше не приходится напрягаться, все видно четко и ясно, как
+							и пару лет
+							назад.</p>
+					</div>
+				</div>
+				<div class="review_item">
+					<img src="img/reviews__review2_photo.jpeg" alt="Визоплекс" loading="lazy">
+					<div class="text_block">
+						<div class="author_info">Виктор Комаров, 32 года</div>
+						<p>Будучи программистом, угробил себе все зрение еще в молодости. Последние 10 лет ношу очки, но
+							увидев
+							Визоплекс решил поставить небольшой эксперимент. Посоветовался с окулистом - тот дал добро.
+							В итоге мой
+							курс продлился полтора месяца, и знаете что? Очки я теперь не ношу! На обоих глазах 0,8,
+							вижу прекрасно,
+							это невероятно круто. Правда, очки выкидывать не стал - иногда за рулем надеваю, ибо без них
+							все еще
+							чувствую себя некомфортно.</p>
+					</div>
+				</div>
+				<div class="review_item">
+					<img src="img/reviews__review3_photo.jpeg" alt="Визоплекс" loading="lazy">
+					<div class="text_block">
+						<div class="author_info">Наталья Андреева, 30 лет</div>
+						<p>Ребенку 3 годика неожиданно поставили диагноз “гиперметропия”. Причем до этого даже
+							подозрения не было на
+							подобные проблемы!!! Но сколько не пеняй на нашу медицину, а делать все приходится самим.
+							Пропили 2 месяца
+							Визоплекс, теперь глазки у нас по 1,3 диоптрия. Риск косоглазия исключен полностью
+							(обследоваться ездили в
+							Израиль). Безумно счастливы, спасибо Визоплекс!</p>
+					</div>
+				</div>
+			</div>
+			<a href="#" class="button">ПОЛУЧИТЬ ЗА <span class="new_price">168</span> <span
+					class="currency_price">руб.</span></a>
+		</div>
+	</section>
+
+
+	<section class="order_steps_section">
+		<div class="wrapper">
+			<h2 class="align_center">Как получить Визоплекс?</h2>
+			<div class="steps_list">
+				<div class="step_item">
+					<div class="image_block">
+						<img src="img/order_steps__step1_image.jpeg" alt="Визоплекс" loading="lazy">
+						<div class="number">1</div>
+					</div>
+					<p>Заполните форму для заказа товара</p>
+				</div>
+				<div class="step_item">
+					<div class="image_block">
+						<img src="img/order_steps__step2_image.jpeg" alt="Визоплекс" loading="lazy">
+						<div class="number">2</div>
+					</div>
+					<p>Оператор уточнит у вас детали и мы отправим ваш заказ</p>
+				</div>
+				<div class="step_item">
+					<div class="image_block">
+						<img src="img/order_steps__step3_image.jpeg" alt="Визоплекс" loading="lazy">
+						<div class="number">3</div>
+					</div>
+					<p>Через 1-10 дней вы получите товар на почте или у курьера</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="order_section">
+		<div class="wrapper zakaz">
+			<h4>Оформите заказ сейчас и получите Визоплекс за <span class="new_price">168</span> <span
+					class="currency_price">руб.</span></h4>
+			<div class="form_block" id="form_block">
+				<div class="timer_block clearfix">
+					<p><span>Только сегодня</span></p>
+					<span class="old-price-summ-num"><span class="price_land_s4 pl_product_old_price">
+							<font class="endStockDate nowdate" daysint="">
+								<script>
+									var d = new Date();
+
+									var month = new Array("января", "февраля", "марта", "апреля", "мая", "июня",
+										"июля", "августа", "сентября", "октября", "ноября", "декабря");
+									d.setDate(d.getDate());
+									document.write((d.getDate()) + " " + month[d.getMonth()] +
+										" " + d.getFullYear());
+								</script> г.
+							</font>
+						</span></span>
+				</div>
+				<div class="price_block clearfix">
+					<div class="price_item new">
+						<div class="text">По акции:</div>
+						<div class="value"><span class="new_price">168</span> <span class="currency_price">руб.</span>*
+						</div>
+					</div>
+				</div>
+				<form method="post" class="order_form" id="order_form">
+					<select name="country" id="country" class="country__selecor input">
+						<!-- <option value="RU">Россия</option> -->
+						<option value="KZ">Казахстан</option>
+					</select>
+					<input class="input" type="text" name="name" placeholder="Введите Ваше имя" required=""
+						maxlength="30" autocomplete="false">
+					<input class="input phone-black" type="text" name="phone" placeholder="Введите Ваш телефон"
+						required="" minlength="10" maxlength="20" autocomplete="false">
+					<button class="button">ПОЛУЧИТЬ ЗА <span class="new_price">168</span> <span
+							class="currency_price">руб.</span></button>
+					<center><span style="color: white; font-size: 14px;">*при заказе курса</span></center>
+					<p class="products_count">Осталось <span class="p_limit_left_text">60</span> упаковок по акции</p>
+
+				</form>
+			</div>
+			<div class="sale myplashka">Внимание! <span class="discount"></span> Акция!</div>
+		</div>
+	</section>
+
+
+	<footer class="footer_section copyright" style="padding-bottom: 72px;">
+		<center
+			style="color:#7e7e7e; font-size: 14px;  line-height: 20px; max-width: 420px; margin: 0 auto;width: 100%; text-align: center; padding-top: 15px;">
+			<p class="m-0">
+				ООО “Сервис логистика XXI” 113569<br>
+				г. Москва, ул. Пресненский Вал, д.9, стр.15, офис. 9а<br>
+				ОГРН 563216375901, ИНН 7723657256<br>
+			</p>
+			<p class="m-0"><a href="politic.html" l-loc="l_pl36">Политика конфиденциальности</a>&nbsp;
+				<a href="oferta.html" l-loc="l_pl37">Пользовательское соглашение</a>
+			</p>
+		</center>
+	</footer>
+	<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+
+
+	<div class="demon_popup">
+		<div class="demon_overflow"></div>
+		<div class="demon_popup_body">
+			<span class="demon_close"></span>
+			<h4 class="demon_popup_title">Вы из <span class="country_name1">России</span>? Подождите!
+			</h4>
+			<img class="product-img" src="img/product-new.png" alt="" style="width:44%;left: 0px;
+	max-width: 350px;" loading="lazy">
+			<p>Для Вас сейчас действует специальное ограниченное предложение</p>
+			<p> Только до
+				<script>
+					d = new Date();
+					p = new Date(d.getTime());
+					monthA = "января,февраля,марта,апреля,мая,июня,июля,августа,сентября,октября,ноября,декабря".split(",");
+					document.write(p.getDate() + " " + monthA[p.getMonth()] + " " + p.getFullYear()) + " г. ";
+				</script> вы можете получить Визоплекс по акции!
+			</p>
+			<a href="#" class="to_form popup_btn">узнать подробнее</a>
+		</div>
+	</div>
+
+	<script>
+		setTimeout(function () {
+			var flag = true;
+			$(window).mouseout(function (e) {
+				if (e.pageY - $(window).scrollTop() < 1 && flag == true) {
+					$('.demon_popup').fadeIn(300);
+					flag = false;
+				}
+			})
+		}, 000);
+		$('.demon_popup, .demon_close, .popup_btn').click(function () {
+			$('.demon_popup').fadeOut(100);
+		})
+		$('.demon_popup_body').click(function (e) {
+			e.stopPropagation();
+		});
+		$(".popup_btn").on("touchend, click",
+			function (e) {
+				e.preventDefault();
+				$('body,html').animate({
+					scrollTop: $('.zakaz').offset().top
+				}, 400);
+			});
+	</script>
+
+	<script>
+		$('a').addClass('to_form');
+		$('.footer_section a').removeClass('to_form');
+		$(".to_form").on("touchend, click", function (e) {
+			e.preventDefault();
+			$('body,html').animate({
+				scrollTop: $('.zakaz').offset().top
+			}, 400);
+		});
+	</script>
+
+	<script src="https://api.affstar.com/api/public/showcase.js?flow_uuid=71494f7d-913c-486a-bdb7-d953c2d0ed34"></script>
+  <script src="https://afcnt.com/js/af.js"></script>
+	<script src="js/script.js"></script>
+
+	<!-- активация скрипта js интеграции ПП, третий параметр хеш потока -->
+	<script>
+		var subid = ["{subid}", "{clickid}", "{{vcode}}", "<tid>"];
+	afjs.init('land', 'confirm.html', '71494f7d-913c-486a-bdb7-d953c2d0ed34', subid);
+	</script>
+
+	<!-- counter.js - скрипт подключения счетчиков ПП -->
+	<script src="../counter.js"></script>
+
+	<!-- price.js - скрипт цены, ГЕО -->
+	<script src="price.js"></script>
+	
+	
+<script src="//code.jivo.ru/widget/AUHV90v5sP" async></script>
+
+</body>
+
+</html>
